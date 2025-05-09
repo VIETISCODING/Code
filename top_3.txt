@@ -1,0 +1,808 @@
+
+Statistic: Age
+----------------
+Top 3: No data available
+Bottom 3: No data available
+
+Statistic: Matches Played
+---------------------------
+Top 3:
+  Youri Tielemans (Aston Villa): 35.00
+  Anthony Elanga (Nott'ham Forest): 35.00
+  Tyrick Mitchell (Crystal Palace): 35.00
+Bottom 3:
+  Tyler Fredricson (Manchester Utd): 2.00
+  Ayden Heaven (Manchester Utd): 2.00
+  Billy Gilmour (Brighton): 2.00
+
+Statistic: Starts
+-------------------
+Top 3:
+  Youri Tielemans (Aston Villa): 35.00
+  Virgil van Dijk (Liverpool): 35.00
+  Bryan Mbeumo (Brentford): 35.00
+Bottom 3:
+  Ben Chilwell (Crystal Palace): 0.00
+  Antony (Manchester Utd): 0.00
+  Tyrique George (Chelsea): 0.00
+
+Statistic: Minutes
+--------------------
+Top 3:
+  Virgil van Dijk (Liverpool): 3150.00
+  Nathan Collins (Brentford): 3150.00
+  Bryan Mbeumo (Brentford): 3144.00
+Bottom 3:
+  Ayden Heaven (Manchester Utd): 95.00
+  Jahmai SimpsonPusey (Manchester City): 96.00
+  Emi Buendía (Aston Villa): 98.00
+
+Statistic: Goals
+------------------
+Top 3:
+  Mohamed Salah (Liverpool): 28.00
+  Alexander Isak (Newcastle Utd): 23.00
+  Erling Haaland (Manchester City): 21.00
+Bottom 3:
+  Axel Disasi (Aston Villa): 0.00
+  Axel Tuanzebe (Ipswich Town): 0.00
+  Ayden Heaven (Manchester Utd): 0.00
+
+Statistic: Assists
+--------------------
+Top 3:
+  Mohamed Salah (Liverpool): 18.00
+  Jacob Murphy (Newcastle Utd): 11.00
+  Antonee Robinson (Fulham): 10.00
+Bottom 3:
+  Aaron Cresswell (West Ham): 0.00
+  Woyo Coulibaly (Leicester City): 0.00
+  Wout Faes (Leicester City): 0.00
+
+Statistic: Yellow Cards
+-------------------------
+Top 3:
+  Saša Lukić (Fulham): 12.00
+  Will Hughes (Crystal Palace): 11.00
+  Morgan GibbsWhite (Nott'ham Forest): 11.00
+Bottom 3:
+  Benoît Badiashile (Chelsea): 0.00
+  William Osula (Newcastle Utd): 0.00
+  Rodrigo Gomes (Wolves): 0.00
+
+Statistic: Red Cards
+----------------------
+Top 3:
+  Myles LewisSkelly (Arsenal): 2.00
+  Jack Stephens (Southampton): 2.00
+  Bruno Fernandes (Manchester Utd): 2.00
+Bottom 3:
+  İlkay Gündoğan (Manchester City): 0.00
+  Vitaly Janelt (Brentford): 0.00
+  Vladimír Coufal (West Ham): 0.00
+
+Statistic: xG
+---------------
+Top 3:
+  Mohamed Salah (Liverpool): 24.00
+  Erling Haaland (Manchester City): 20.80
+  Alexander Isak (Newcastle Utd): 19.90
+Bottom 3:
+  Abdukodir Khusanov (Manchester City): 0.00
+  Andrés García (Aston Villa): 0.00
+  Archie Gray (Tottenham): 0.00
+
+Statistic: xAG
+----------------
+Top 3:
+  Mohamed Salah (Liverpool): 13.20
+  Cole Palmer (Chelsea): 10.00
+  Son Heungmin (Tottenham): 8.20
+Bottom 3:
+  Woyo Coulibaly (Leicester City): 0.00
+  Willy Boly (Nott'ham Forest): 0.00
+  Ricardo Pereira (Leicester City): 0.00
+
+Statistic: PrgC
+-----------------
+Top 3:
+  Jeremy Doku (Manchester City): 189.00
+  Mohamed Salah (Liverpool): 143.00
+  Noni Madueke (Chelsea): 142.00
+Bottom 3:
+  Yerson Mosquera (Wolves): 0.00
+  Wataru Endo (Liverpool): 0.00
+  Morato (Nott'ham Forest): 0.00
+
+Statistic: PrgP
+-----------------
+Top 3:
+  Bruno Fernandes (Manchester Utd): 281.00
+  Joško Gvardiol (Manchester City): 251.00
+  Bruno Guimarães (Newcastle Utd): 247.00
+Bottom 3:
+  Chiedozie Ogbene (Ipswich Town): 0.00
+  Chidozie ObiMartin (Manchester Utd): 1.00
+  Evan Ferguson (West Ham): 1.00
+
+Statistic: PrgR
+-----------------
+Top 3:
+  Mohamed Salah (Liverpool): 440.00
+  Bryan Mbeumo (Brentford): 319.00
+  Alejandro Garnacho (Manchester Utd): 281.00
+Bottom 3:
+  Yerson Mosquera (Wolves): 0.00
+  Tyrone Mings (Aston Villa): 0.00
+  Luke Woolfenden (Ipswich Town): 0.00
+
+Statistic: Gls/90
+-------------------
+Top 3:
+  Jáder Durán (Aston Villa): 0.99
+  Donyell Malen (Aston Villa): 0.92
+  James Mcatee (Manchester City): 0.89
+Bottom 3:
+  Aaron Cresswell (West Ham): 0.00
+  İlkay Gündoğan (Manchester City): 0.00
+  Álex Moreno (Nott'ham Forest): 0.00
+
+Statistic: Ast/90
+-------------------
+Top 3:
+  Tyrique George (Chelsea): 0.87
+  Danny Ings (West Ham): 0.63
+  Bukayo Saka (Arsenal): 0.58
+Bottom 3:
+  Aaron Cresswell (West Ham): 0.00
+  Yves Bissouma (Tottenham): 0.00
+  Abdukodir Khusanov (Manchester City): 0.00
+
+Statistic: xG/90
+------------------
+Top 3:
+  James Mcatee (Manchester City): 0.83
+  Erling Haaland (Manchester City): 0.76
+  Danny Ings (West Ham): 0.72
+Bottom 3:
+  Abdukodir Khusanov (Manchester City): 0.00
+  Archie Gray (Tottenham): 0.00
+  Ayden Heaven (Manchester Utd): 0.00
+
+Statistic: xAG/90
+-------------------
+Top 3:
+  Tyrique George (Chelsea): 0.63
+  Mykhailo Mudryk (Chelsea): 0.58
+  Philip Billing (Bournemouth): 0.54
+Bottom 3:
+  Ricardo Pereira (Leicester City): 0.00
+  Renato Veiga (Chelsea): 0.00
+  Ben Mee (Brentford): 0.00
+
+Statistic: GA90
+-----------------
+Top 3:
+  Alisson (Liverpool): 4.00
+  Alex McCarthy (Southampton): 2.60
+  Alex Palmer (Ipswich Town): 2.45
+Bottom 3:
+  Fraser Forster (Tottenham): 1.24
+  Joe Lumley (Southampton): 1.25
+  Antonín Kinský (Tottenham): 1.83
+
+Statistic: Save%
+------------------
+Top 3:
+  Joe Lumley (Southampton): 75.40
+  Alex McCarthy (Southampton): 70.30
+  Antonín Kinský (Tottenham): 70.00
+Bottom 3:
+  Alisson (Liverpool): 33.30
+  Fraser Forster (Tottenham): 50.00
+  Alex Palmer (Ipswich Town): 58.70
+
+Statistic: CS%
+----------------
+Top 3:
+  Fraser Forster (Tottenham): 100.00
+  Joe Lumley (Southampton): 25.00
+  Aaron Ramsdale (Southampton): 7.40
+Bottom 3:
+  Alex McCarthy (Southampton): 0.00
+  Alex Palmer (Ipswich Town): 0.00
+  Alisson (Liverpool): 0.00
+
+Statistic: PK Save%
+---------------------
+Top 3:
+  Aaron Ramsdale (Southampton): 28.60
+  Kepa Arrizabalaga (Bournemouth): 25.00
+  Alex McCarthy (Southampton): 0.00
+Bottom 3:
+  Alex McCarthy (Southampton): 0.00
+  Alex Palmer (Ipswich Town): 0.00
+  Antonín Kinský (Tottenham): 0.00
+
+Statistic: SoT%
+-----------------
+Top 3:
+  Patson Daka (Leicester City): 100.00
+  Antony (Manchester Utd): 100.00
+  Fabian Schär (Newcastle Utd): 100.00
+Bottom 3:
+  Aaron Cresswell (West Ham): 0.00
+  Abdukodir Khusanov (Manchester City): 0.00
+  Armel Bella Kotchap (Southampton): 0.00
+
+Statistic: SoT/90
+-------------------
+Top 3:
+  David Brooks (Bournemouth): 2.76
+  Kaoru Mitoma (Brighton): 2.29
+  Jeffrey Schlupp (Crystal Palace): 2.12
+Bottom 3:
+  Armel Bella Kotchap (Southampton): 0.00
+  Ashley Young (Everton): 0.00
+  Axel Disasi (Aston Villa): 0.00
+
+Statistic: G/Sh
+-----------------
+Top 3:
+  James Milner (Brighton): 1.00
+  Marcus Rashford (Manchester Utd): 0.50
+  Hwang Heechan (Wolves): 0.40
+Bottom 3:
+  Aaron Cresswell (West Ham): 0.00
+  Sean Longstaff (Newcastle Utd): 0.00
+  Bernardo Silva (Manchester City): 0.00
+
+Statistic: Dist
+-----------------
+Top 3:
+  Gabriel Magalhães (Arsenal): 32.00
+  Dominic CalvertLewin (Everton): 31.80
+  Roméo Lavia (Chelsea): 31.30
+Bottom 3:
+  John McGinn (Aston Villa): 2.60
+  Fabian Schär (Newcastle Utd): 4.50
+  James Milner (Brighton): 5.10
+
+Statistic: Cmp
+----------------
+Top 3:
+  Rodrigo Bentancur (Tottenham): 2543.00
+  Ryan Gravenberch (Liverpool): 2320.00
+  Joško Gvardiol (Manchester City): 2211.00
+Bottom 3:
+  Ryan Fraser (Southampton): 11.00
+  Albert Grønbaek (Southampton): 13.00
+  Mathys Tel (Tottenham): 17.00
+
+Statistic: Cmp%
+-----------------
+Top 3:
+  Ryan Gravenberch (Liverpool): 94.20
+  Marcus Tavernier (Bournemouth): 93.90
+  Kevin Schade (Brentford): 93.90
+Bottom 3:
+  Lucas Bergvall (Tottenham): 51.10
+  Enzo Fernández (Chelsea): 55.80
+  Joelinton (Newcastle Utd): 58.20
+
+Statistic: TotDist
+--------------------
+Top 3:
+  Rodrigo Bentancur (Tottenham): 46352.00
+  Joško Gvardiol (Manchester City): 40277.00
+  Ryan Gravenberch (Liverpool): 39927.00
+Bottom 3:
+  Ryan Fraser (Southampton): 126.00
+  Albert Grønbaek (Southampton): 135.00
+  Mathys Tel (Tottenham): 230.00
+
+Statistic: Short Cmp%
+-----------------------
+Top 3:
+  Sepp van den Berg (Brentford): 100.00
+  Antonee Robinson (Fulham): 100.00
+  Jacob Ramsey (Aston Villa): 100.00
+Bottom 3:
+  Ryan Fraser (Southampton): 61.50
+  Michael Keane (Everton): 62.90
+  Enzo Fernández (Chelsea): 66.70
+
+Statistic: Medium Cmp%
+------------------------
+Top 3:
+  Martin Ødegaard (Arsenal): 100.00
+  Conor Townsend (Ipswich Town): 100.00
+  Lamare Bogarde (Aston Villa): 100.00
+Bottom 3:
+  Albert Grønbaek (Southampton): 50.00
+  Enzo Fernández (Chelsea): 50.00
+  Ryan Fraser (Southampton): 50.00
+
+Statistic: Long Cmp%
+----------------------
+Top 3:
+  Riccardo Calafiori (Arsenal): 100.00
+  Antoine Semenyo (Bournemouth): 100.00
+  Mathys Tel (Tottenham): 100.00
+Bottom 3:
+  Neco Williams (Nott'ham Forest): 0.00
+  Dominic Solanke (Tottenham): 0.00
+  Ayden Heaven (Manchester Utd): 11.10
+
+Statistic: KP
+---------------
+Top 3:
+  Boubacar Kamara (Aston Villa): 84.00
+  Manuel Akanji (Manchester City): 82.00
+  Cheick Doucouré (Crystal Palace): 82.00
+Bottom 3:
+  Ben Davies (Tottenham): 0.00
+  Ben Brereton (Southampton): 0.00
+  Ricardo Pereira (Leicester City): 0.00
+
+Statistic: 1/3
+----------------
+Top 3:
+  Rodrigo Bentancur (Tottenham): 269.00
+  Sandro Tonali (Newcastle Utd): 228.00
+  Marc Cucurella (Chelsea): 219.00
+Bottom 3:
+  Lamare Bogarde (Aston Villa): 0.00
+  Jacob Ramsey (Aston Villa): 0.00
+  Ryan Fraser (Southampton): 0.00
+
+Statistic: PPA
+----------------
+Top 3:
+  Manuel Akanji (Manchester City): 86.00
+  Leandro Trossard (Arsenal): 81.00
+  Alex Iwobi (Fulham): 78.00
+Bottom 3:
+  Ben Davies (Tottenham): 0.00
+  Ricardo Pereira (Leicester City): 0.00
+  Mathys Tel (Tottenham): 0.00
+
+Statistic: CrsPA
+------------------
+Top 3:
+  Anthony Gordon (Newcastle Utd): 28.00
+  Micky van de Ven (Tottenham): 26.00
+  Malo Gusto (Chelsea): 23.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Abdoulaye Doucouré (Everton): 0.00
+  Abdukodir Khusanov (Manchester City): 0.00
+
+Statistic: PrgP (Passing)
+---------------------------
+Top 3:
+  Bruno Fernandes (Manchester Utd): 281.00
+  Joško Gvardiol (Manchester City): 251.00
+  Bruno Guimarães (Newcastle Utd): 247.00
+Bottom 3:
+  Chiedozie Ogbene (Ipswich Town): 0.00
+  Chidozie ObiMartin (Manchester Utd): 1.00
+  Evan Ferguson (West Ham): 1.00
+
+Statistic: SCA
+----------------
+Top 3:
+  Cheick Doucouré (Crystal Palace): 190.00
+  Boubacar Kamara (Aston Villa): 169.00
+  Manuel Akanji (Manchester City): 157.00
+Bottom 3:
+  Kyle Walker (Manchester City): 0.00
+  Ben Davies (Tottenham): 0.00
+  Leny Yoro (Manchester Utd): 0.00
+
+Statistic: SCA90
+------------------
+Top 3:
+  Mikey Moore (Tottenham): 7.83
+  Kamaldeen Sulemana (Southampton): 6.52
+  Jake OBrien (Everton): 6.06
+Bottom 3:
+  Ben Johnson (Ipswich Town): 0.00
+  Conor Townsend (Ipswich Town): 0.00
+  Facundo Buonanotte (Leicester City): 0.00
+
+Statistic: GCA
+----------------
+Top 3:
+  Manuel Akanji (Manchester City): 26.00
+  Brajan Gruda (Brighton): 22.00
+  Mads Roerslev (Brentford): 21.00
+Bottom 3:
+  Aaron Cresswell (West Ham): 0.00
+  Sepp van den Berg (Brentford): 0.00
+  Abdukodir Khusanov (Manchester City): 0.00
+
+Statistic: GCA90
+------------------
+Top 3:
+  Brajan Gruda (Brighton): 1.29
+  Omari Hutchinson (Ipswich Town): 1.08
+  Luis Díaz (Liverpool): 0.93
+Bottom 3:
+  Aaron Cresswell (West Ham): 0.00
+  Abdukodir Khusanov (Manchester City): 0.00
+  Ali Al Hamadi (Ipswich Town): 0.00
+
+Statistic: Tkl
+----------------
+Top 3:
+  Conor Bradley (Liverpool): 113.00
+  Marc Cucurella (Chelsea): 103.00
+  Mathias Jensen (Brentford): 102.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Axel Disasi (Aston Villa): 0.00
+  Casemiro (Manchester Utd): 0.00
+
+Statistic: TklW
+-----------------
+Top 3:
+  Conor Bradley (Liverpool): 74.00
+  Marc Cucurella (Chelsea): 64.00
+  Mathias Jensen (Brentford): 60.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Ben Brereton (Southampton): 0.00
+  Kyle Walker (Manchester City): 0.00
+
+Statistic: Att (Challenges)
+-----------------------------
+Top 3:
+  Rodrigo Bentancur (Tottenham): 2776.00
+  Joško Gvardiol (Manchester City): 2468.00
+  Ryan Gravenberch (Liverpool): 2463.00
+Bottom 3:
+  Albert Grønbaek (Southampton): 18.00
+  Ryan Fraser (Southampton): 18.00
+  Mathys Tel (Tottenham): 28.00
+
+Statistic: Lost (Challenges)
+------------------------------
+Top 3:
+  Diego Carlos (Aston Villa): 57.00
+  Reece James (Chelsea): 55.00
+  Dominik Szoboszlai (Liverpool): 52.00
+Bottom 3:
+  Ben White (Arsenal): 0.00
+  Ashley Young (Everton): 0.00
+  Lucas Bergvall (Tottenham): 0.00
+
+Statistic: Blocks
+-------------------
+Top 3:
+  Marcos Senesi (Bournemouth): 67.00
+  Richarlison (Tottenham): 62.00
+  Alexis Mac Allister (Liverpool): 61.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Riccardo Calafiori (Arsenal): 0.00
+  Andrew Robertson (Liverpool): 0.00
+
+Statistic: Sh (Blocks)
+------------------------
+Top 3:
+  Anthony Elanga (Nott'ham Forest): 118.00
+  Cheick Doucouré (Crystal Palace): 115.00
+  Manuel Akanji (Manchester City): 112.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Antonee Robinson (Fulham): 0.00
+  Ben Johnson (Ipswich Town): 0.00
+
+Statistic: Pass (Blocks)
+--------------------------
+Top 3:
+  Alexis Mac Allister (Liverpool): 55.00
+  Anthony Elanga (Nott'ham Forest): 51.00
+  Richarlison (Tottenham): 50.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Riccardo Calafiori (Arsenal): 0.00
+  Andrew Robertson (Liverpool): 0.00
+
+Statistic: Int
+----------------
+Top 3:
+  Aaron WanBissaka (West Ham): 60.00
+  Niclas Füllkrug (West Ham): 57.00
+  Anthony Gordon (Newcastle Utd): 57.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Axel Disasi (Aston Villa): 0.00
+  Axel Tuanzebe (Ipswich Town): 0.00
+
+Statistic: Touches
+--------------------
+Top 3:
+  Rodrigo Bentancur (Tottenham): 3125.00
+  Joško Gvardiol (Manchester City): 2728.00
+  Ryan Gravenberch (Liverpool): 2717.00
+Bottom 3:
+  Albert Grønbaek (Southampton): 38.00
+  Ryan Fraser (Southampton): 41.00
+  Mathys Tel (Tottenham): 45.00
+
+Statistic: Def Pen
+--------------------
+Top 3:
+  Kristoffer Ajer (Brentford): 1338.00
+  Ben White (Arsenal): 1097.00
+  Axel Disasi (Aston Villa): 1034.00
+Bottom 3:
+  Diogo Dalot (Manchester Utd): 0.00
+  Bruno Fernandes (Manchester Utd): 1.00
+  Eddie Nketiah (Crystal Palace): 1.00
+
+Statistic: Def 3rd
+--------------------
+Top 3:
+  Richarlison (Tottenham): 54.00
+  Anthony Gordon (Newcastle Utd): 53.00
+  Conor Bradley (Liverpool): 53.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Axel Disasi (Aston Villa): 0.00
+  Ben Davies (Tottenham): 0.00
+
+Statistic: Mid 3rd
+--------------------
+Top 3:
+  Marc Cucurella (Chelsea): 51.00
+  Alexis Mac Allister (Liverpool): 51.00
+  Sandro Tonali (Newcastle Utd): 44.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Riccardo Calafiori (Arsenal): 0.00
+  Ben White (Arsenal): 0.00
+
+Statistic: Att 3rd
+--------------------
+Top 3:
+  Mads Roerslev (Brentford): 25.00
+  Conor Bradley (Liverpool): 23.00
+  Pedro Porro (Tottenham): 20.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Abdukodir Khusanov (Manchester City): 0.00
+  Radu Drăgușin (Tottenham): 0.00
+
+Statistic: Att Pen
+--------------------
+Top 3:
+  Manuel Akanji (Manchester City): 327.00
+  Alexander Isak (Newcastle Utd): 178.00
+  Anthony Elanga (Nott'ham Forest): 176.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Antonee Robinson (Fulham): 0.00
+  Riccardo Calafiori (Arsenal): 0.00
+
+Statistic: Att (Take-Ons)
+---------------------------
+Top 3:
+  Rodrigo Bentancur (Tottenham): 2776.00
+  Joško Gvardiol (Manchester City): 2468.00
+  Ryan Gravenberch (Liverpool): 2463.00
+Bottom 3:
+  Albert Grønbaek (Southampton): 18.00
+  Ryan Fraser (Southampton): 18.00
+  Mathys Tel (Tottenham): 28.00
+
+Statistic: Succ% (Take-Ons)
+-----------------------------
+Top 3:
+  Sepp van den Berg (Brentford): 100.00
+  Ricardo Pereira (Leicester City): 100.00
+  Riccardo Calafiori (Arsenal): 100.00
+Bottom 3:
+  Ben Johnson (Ipswich Town): 0.00
+  Ben Godfrey (Ipswich Town): 0.00
+  Albert Grønbaek (Southampton): 0.00
+
+Statistic: Tkld%
+------------------
+Top 3:
+  Ola Aina (Nott'ham Forest): 100.00
+  Julio Enciso (Ipswich Town): 100.00
+  Mathys Tel (Tottenham): 100.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Ashley Young (Everton): 0.00
+  Axel Disasi (Aston Villa): 0.00
+
+Statistic: Carries
+--------------------
+Top 3:
+  Rodrigo Bentancur (Tottenham): 1746.00
+  Ryan Gravenberch (Liverpool): 1675.00
+  Nicolás González (Manchester City): 1592.00
+Bottom 3:
+  Facundo Buonanotte (Leicester City): 17.00
+  Albert Grønbaek (Southampton): 18.00
+  Mathys Tel (Tottenham): 23.00
+
+Statistic: ProDist
+--------------------
+Top 3:
+  Kristoffer Ajer (Brentford): 23832.00
+  James WardProwse (West Ham): 22991.00
+  Rodrigo Bentancur (Tottenham): 18087.00
+Bottom 3:
+  Eddie Nketiah (Crystal Palace): 21.00
+  Ryan Fraser (Southampton): 33.00
+  Albert Grønbaek (Southampton): 43.00
+
+Statistic: ProgC (Carries)
+----------------------------
+Top 3:
+  Jeremy Doku (Manchester City): 189.00
+  Mohamed Salah (Liverpool): 143.00
+  Noni Madueke (Chelsea): 142.00
+Bottom 3:
+  Yerson Mosquera (Wolves): 0.00
+  Wataru Endo (Liverpool): 0.00
+  Morato (Nott'ham Forest): 0.00
+
+Statistic: 1/3 (Carries)
+--------------------------
+Top 3:
+  Rodrigo Bentancur (Tottenham): 269.00
+  Sandro Tonali (Newcastle Utd): 228.00
+  Marc Cucurella (Chelsea): 219.00
+Bottom 3:
+  Lamare Bogarde (Aston Villa): 0.00
+  Jacob Ramsey (Aston Villa): 0.00
+  Ryan Fraser (Southampton): 0.00
+
+Statistic: CPA
+----------------
+Top 3:
+  Manuel Akanji (Manchester City): 115.00
+  Matheus Nunes (Manchester City): 87.00
+  Patrick Dorgu (Manchester Utd): 73.00
+Bottom 3:
+  Aaron Cresswell (West Ham): 0.00
+  Sepp van den Berg (Brentford): 0.00
+  Saša Lukić (Fulham): 0.00
+
+Statistic: Mis
+----------------
+Top 3:
+  Manuel Akanji (Manchester City): 109.00
+  Marco Asensio (Aston Villa): 104.00
+  Boubakary Soumaré (Leicester City): 99.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Antonee Robinson (Fulham): 0.00
+  Ben Davies (Tottenham): 0.00
+
+Statistic: Dis
+----------------
+Top 3:
+  Manuel Ugarte Ribeiro (Manchester Utd): 89.00
+  Anthony Elanga (Nott'ham Forest): 72.00
+  Jacob Murphy (Newcastle Utd): 70.00
+Bottom 3:
+  Aaron Cresswell (West Ham): 0.00
+  Sepp van den Berg (Brentford): 0.00
+  Antonee Robinson (Fulham): 0.00
+
+Statistic: Rec
+----------------
+Top 3:
+  Rodrigo Bentancur (Tottenham): 2153.00
+  Ryan Gravenberch (Liverpool): 2056.00
+  Joško Gvardiol (Manchester City): 1996.00
+Bottom 3:
+  Albert Grønbaek (Southampton): 21.00
+  Mathys Tel (Tottenham): 26.00
+  Ryan Fraser (Southampton): 27.00
+
+Statistic: PrgR (Receiving)
+-----------------------------
+Top 3:
+  Mohamed Salah (Liverpool): 440.00
+  Bryan Mbeumo (Brentford): 319.00
+  Alejandro Garnacho (Manchester Utd): 281.00
+Bottom 3:
+  Yerson Mosquera (Wolves): 0.00
+  Tyrone Mings (Aston Villa): 0.00
+  Luke Woolfenden (Ipswich Town): 0.00
+
+Statistic: Fls
+----------------
+Top 3:
+  Justin Devenny (Crystal Palace): 67.00
+  Anthony Elanga (Nott'ham Forest): 66.00
+  Oleksandr Zinchenko (Arsenal): 62.00
+Bottom 3:
+  Axel Disasi (Aston Villa): 0.00
+  Ben White (Arsenal): 0.00
+  Nikola Milenković (Nott'ham Forest): 0.00
+
+Statistic: Fld
+----------------
+Top 3:
+  Justin Devenny (Crystal Palace): 13.00
+  Levi Colwill (Chelsea): 12.00
+  Sander Berge (Fulham): 10.00
+Bottom 3:
+  Armel Bella Kotchap (Southampton): 0.00
+  Archie Gray (Tottenham): 0.00
+  Antony (Manchester Utd): 0.00
+
+Statistic: Off
+----------------
+Top 3:
+  Danny Welbeck (Brighton): 27.00
+  Carlos Forbs (Wolves): 26.00
+  Jack Grealish (Manchester City): 25.00
+Bottom 3:
+  Ryan Manning (Southampton): 0.00
+  Aaron Cresswell (West Ham): 0.00
+  Armando Broja (Everton): 0.00
+
+Statistic: Crs
+----------------
+Top 3:
+  Micky van de Ven (Tottenham): 191.00
+  Boubakary Soumaré (Leicester City): 182.00
+  Boubacar Kamara (Aston Villa): 172.00
+Bottom 3:
+  Sepp van den Berg (Brentford): 0.00
+  Andreas Pereira (Fulham): 0.00
+  Andrew Robertson (Liverpool): 0.00
+
+Statistic: Recov
+------------------
+Top 3:
+  Marc Cucurella (Chelsea): 203.00
+  Diego Carlos (Aston Villa): 197.00
+  Boubacar Kamara (Aston Villa): 192.00
+Bottom 3:
+  Emile Smith Rowe (Fulham): 1.00
+  Conor Townsend (Ipswich Town): 1.00
+  Nathan Broadhead (Ipswich Town): 2.00
+
+Statistic: Won (Aerial)
+-------------------------
+Top 3:
+  Cody Gakpo (Liverpool): 134.00
+  Rodrigo Bentancur (Tottenham): 111.00
+  Lucas Digne (Aston Villa): 105.00
+Bottom 3:
+  Antoine Semenyo (Bournemouth): 0.00
+  Phil Foden (Manchester City): 0.00
+  Riccardo Calafiori (Arsenal): 0.00
+
+Statistic: Lost (Aerial)
+--------------------------
+Top 3:
+  Diego Carlos (Aston Villa): 57.00
+  Reece James (Chelsea): 55.00
+  Dominik Szoboszlai (Liverpool): 52.00
+Bottom 3:
+  Ben White (Arsenal): 0.00
+  Ashley Young (Everton): 0.00
+  Lucas Bergvall (Tottenham): 0.00
+
+Statistic: Won% (Aerial)
+--------------------------
+Top 3:
+  Ben White (Arsenal): 100.00
+  Andrew Robertson (Liverpool): 100.00
+  Antonee Robinson (Fulham): 100.00
+Bottom 3:
+  Antoine Semenyo (Bournemouth): 0.00
+  André (Wolves): 0.00
+  Phil Foden (Manchester City): 0.00
